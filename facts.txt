@@ -1,4 +1,4 @@
-ltoken=fit8ZwltFhjLZTCFLEHllSsIhgCrLkKXFUC6mf4H;ltuid=67994307[
+[
 `The speed of light is generally rounded down to 186,000 miles per second. In exact terms it is 299,792,458 m/s.`,
 `It takes 8 minutes 17 seconds for light to travel from the Sun’s surface to the Earth.`,
 `October 12th, 1999 was declared “The Day of Six Billion” based on United Nations projections.`,
